@@ -2,6 +2,8 @@
 # do the following cmd
 # python3 culinary.py > README.md
 
+import re
+
 import pandas as pd
 from pint import UnitRegistry
 from tabulate import tabulate
@@ -30,7 +32,8 @@ di = pd.read_csv('baking_directions.csv', index_col=0)
 for cookie in df['cookie'].unique():
     c, d, y = di[di['cookie'] == cookie].values[0]
     print(f"\n# {c}, yield = {y}\n")
-    print(f"![alt text](\"pictures/{cookie}.jpg\")\n")
+    c = re.sub('\W+', '', c)
+    print(f"![alt text](pictures/{c}.jpg)\n")
     print(d)
     ingred_table = df[df['cookie'] == cookie][df.columns[1:]].set_index('quantity').drop(columns='pint_unit')
     ingred_table.fillna('', inplace=True)
