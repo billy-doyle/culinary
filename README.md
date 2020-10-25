@@ -1,6 +1,7 @@
 
 # Tate's Chocolate Chip Cookies, yield = 54
 
+![alt text](pictures/Tate's Chocolate Chip Cookies.jpg)
 Preheat the oven to 350 degrees. Grease two cookie sheets or line them with Silpat. 
 
 In a large bowl, stir together the flour, baking soda, and salt. 
@@ -27,6 +28,7 @@ Bake them for 12 minutes or until the edges and centers are brown. Remove the co
 
 # Magic Cookie Bars, yield = 36
 
+![alt text](pictures/Magic Cookie Bars.jpg)
 Preheat oven to 350° F. In 13x9 inch baking pan, melt margarine in oven. 
 
 Sprinkle crumbs over margarine; pour eagle brand evenly over crumbs. 
@@ -47,6 +49,7 @@ Cool. Chill throughly if desired. Cut into bars.
 
 # Peanut Butter Cluster Kisses, yield = 60
 
+![alt text](pictures/Peanut Butter Cluster Kisses.jpg)
 Preheat oven to 375°. In large mixer bowl beat Eagle Brand and peanut butter until smooth. 
 
 Add biscuit mix and vanilla; mix well. Shape into 1-inch balls. Roll in sugar. 
@@ -69,6 +72,7 @@ Press hershey kiss in center of each ball immediately after baking.
 
 # Forgotten Cookies, yield = 24
 
+![alt text](pictures/Forgotten Cookies.jpg)
 Heat oven to 350 degrees F. 
 
 Beat egg whites with salt until foamy, gradually add sugar and beat until stiff. 
