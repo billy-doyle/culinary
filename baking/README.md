@@ -9,7 +9,7 @@ In a large bowl, stir together the flour, baking soda, and salt.
 
 In another large bowl, cream the butter and sugars. Add the water and vanilla. Mix the ingredients until they are just combined. Add the eggs and mix them lightly; Stir in the flour mixture. Fold in the chocolate chips. Don’t overmix the dough. 
 
-Drop the cookies 2 inches apart onto the prepared cookie sheets using two tablespoons or an ice cream scoop. Flatten out cookie.
+Drop the cookies 2 inches apart onto the prepared cookie sheets using two tablespoons or an ice cream scoop. Flatten out cookie, lightly dampen finger tips with water to press cookies down and avoid sticking.
 
 Bake them for 12 minutes or until the edges and centers are brown. Remove the cookies to a wire rack to cool.
 
