@@ -95,29 +95,56 @@ Place in oven. Turn off oven immediately. Leave in oven until completely cool, o
 |       1    | cup      | mini semisweet chocolate chips |          |
 |       1    | cup      | chopped nuts                   | optional |
 
+# Doubly Chocolate Pecan, yield = 60
+
+![alt text](pictures/DoublyChocolatePecan.jpg)
+
+Heat oven to 350 degrees F.
+
+Stir together flour, cocoa, baking soda, and salt. Beat butter, sugar, eggs, and vanilla in large bowl until fluffy. Gradually add flour mixture, beating well.
+
+Stir in chocolate chips and nuts. Drop by slighlty rounded tablespoons-full onto ungreased cookie sheet.
+
+Bake 8-10 minutes or until just set. Cool slightly, remove from cookie sheet to wire rack.
+
+
+|   quantity | unit     | ingredient                | notes            |
+|-----------:|:---------|:--------------------------|:-----------------|
+|       2    | cup      | all-purpose flour         |                  |
+|       0.67 | cup      | cocoa powder              | usually hersheys |
+|       0.75 | teaspoon | baking soda               |                  |
+|       0.25 | teaspoon | salt                      |                  |
+|       1    | cup      | unsalted butter           |                  |
+|       1.5  | cup      | sugar                     |                  |
+|       2    | unit     | egg                       |                  |
+|       2    | teaspoon | vanilla                   |                  |
+|       2    | cup      | semisweet chocolate chips |                  |
+|       0.5  | cup      | chopped nuts              | usually pecans   |
+
 # All Ingredients
 all ingredients for all cookies are here
 
 | ingredient                     | pint_unit        |
 |:-------------------------------|:-----------------|
-| all-purpose flour              | 2.0 cup          |
-| baking soda                    | 1.0 teaspoon     |
+| all-purpose flour              | 4.0 cup          |
+| baking soda                    | 1.75 teaspoon    |
 | bisquik baking mix             | 2.0 cup          |
-| chopped nuts                   | 2.0 cup          |
+| chopped nuts                   | 2.5 cup          |
+| cocoa powder                   | 0.67 cup         |
 | coconut flake                  | 1.33 cup         |
 | dark brown sugar               | 0.75 cup         |
-| egg                            | 2.0 egg_unit     |
+| egg                            | 4.0 egg_unit     |
 | egg white                      | 2.0 egg_unit     |
 | graham cracker crumbs          | 1.5 cup          |
 | granulated sugar               | 1.0 plate        |
 | hershey kiss                   | 10.8 fluid_ounce |
 | mini semisweet chocolate chips | 1.0 cup          |
 | peanut butter                  | 0.75 cup         |
-| salt                           | 1.0625 teaspoon  |
+| salt                           | 1.3125 teaspoon  |
 | salted butter                  | 1.0 cup          |
-| semisweet chocolate chips      | 2.75 cup         |
-| sugar                          | 1.42 cup         |
+| semisweet chocolate chips      | 4.75 cup         |
+| sugar                          | 2.92 cup         |
 | sweetened condensed milk       | 28.0 fluid_ounce |
-| unsalted butter                | 0.5 cup          |
-| vanilla                        | 3.0 teaspoon     |
+| unsalted butter                | 1.5 cup          |
+| vanilla                        | 5.0 teaspoon     |
 | water                          | 3.0 teaspoon     |
